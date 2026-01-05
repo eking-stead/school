@@ -1,4 +1,3 @@
-# Malls and Meadows Notes 
 
 ![malls and meadows](img/malls-meadows.png)
 

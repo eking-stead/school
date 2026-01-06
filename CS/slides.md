@@ -1,6 +1,6 @@
 ##  1/5/25
 
-Agenda
+## Agenda
 
 * Introductions 
 * Syllabus <!-- (need!)-->
@@ -27,12 +27,13 @@ You will learn these coding languages:
     * How it works 
     * The ethics of using it
 * Game design
-* Coding
+* Coding an app in code.org
 * 3D modeling
 
-## First activity
+## Introductions
 
-* generate a fun image using AI
+* Make an image using **Piskelapp.com**
+
 
 ###  "Inspect Element" Your Way to Internet Fame
 

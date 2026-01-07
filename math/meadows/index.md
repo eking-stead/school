@@ -1,3 +1,6 @@
+---
+title: Meadows or Malls?
+---
 
 ![malls and meadows](img/malls-meadows.png)
 

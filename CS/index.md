@@ -1,8 +1,8 @@
 
 
-## Agenda
+## 1/5/25
 
-1/5/25
+Agenda
 
 * Important policies <!-- (need!)-->
 * Course Overview
@@ -23,8 +23,9 @@ This class is designed for me to see **your own work.** At the same time, AI exi
 The golden rule of this class is to **never pass off AI work as your own.** If you are detected trying to pass AI off as your own work, you will receive a zero on the assignment with **one chance per semester** to redo for a maximum grade of a 2.
 
 ## Food
-    * Snacks are okay, as long as no wrappers/crumbs left
-    * Lunch: put on my desk and pick up after class
+
+* Snacks are okay, as long as no wrappers/crumbs left
+* Lunch: put on my desk and pick up after class
 
 
 ## Course Overview: Units
@@ -55,6 +56,11 @@ And use them to put together an interactive website you can share.
 ## Community agreements
 
 * Whose responsibility is it to keep the room clean and organized?
+
+* Whose responsibility is it to keep the room clean and organized?
+* What does community mean to us?
+    * Big paper + discuss
+
 * What does community mean to us?
     * Big paper + discuss
 

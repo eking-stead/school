@@ -1,32 +1,16 @@
 ---
-title: Meadows or Malls?
+title: Meadows or Malls Unit?
 ---
 
 ![malls and meadows](img/malls-meadows.png)
 
 ## Links
+[Full IMP4 textbook](https://classroom.google.com/u/1/w/Nzk1NTU4MDM5NDg2/t/all)
+[All unit worksheets](https://drive.google.com/drive/u/1/folders/1CdNnTxJIGEkQ15M1Ewke0CHleM5wnMNO)
+[Unit Schedule](https://docs.google.com/spreadsheets/d/1s2R21dCrv9BQpcEe3eruZrLmEIu7hufmQzpH7BXQcso)
 
-[Class worksheets](https://drive.google.com/drive/u/1/folders/1CdNnTxJIGEkQ15M1Ewke0CHleM5wnMNO)
+## Daily notes
+[1/6/26](meadows.html)
+[1/8/26](heavy.html)
 
-## Land
 
-* 300 acre Mr. Goodfellow
-* 100 acre Army
-* 150 acres mining
-
-## Use
-
-* Recreation/development
-* 300 acres for development
-* Army base and mine more "attractive"
-
-## Compromise
-
-* At most, 200 acres of the army base and mining land will be used for recreation.
-* The amount of army base land used for recreation and the amount of farmland used for development together must total exactly 100 acres.
-
-<!--
-## Link test
-
-[Link](meadows.html)
--->

@@ -10,4 +10,5 @@ title: Heavy Flying
 
 # Notes
 
-How to use variables and algebra? (to describe the constraints on what Lindsay can carry)
+* How to use variables and algebra? (to describe the constraints on what Lindsay can carry)
+* [Ed's notes](pdf/heavy.pdf]

@@ -8,8 +8,28 @@ The two kinds of energy we will talk about are **kinetic** and **potential.**
 
 Energy in movement
 
-**The Cauchy-Schwarz Inequality**\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+ $E_k= \frac{1}{2} mv^2$
 
+ m = mass (kg)
+
+v = velocity (m/s)
 
 # Potential Energy
+
+The kind of potential energy we care about for this project is **elastic potential energy**. This is what builds up when you pull back on a spoon or rubber band.
+
+$E_p = mgh$
+
+m = mass (kilograms)
+
+h = height (meters)
+
+g = gravitational constant ($9.81 \frac{m}{s^2}$)
+
+# Shape 
+
+Objects launched through a gravitational field form the shape of a **parabola**
+
+![Parabola](img/parabola.png)
+
+What **angle** do you think would be best for launching the bean bag?

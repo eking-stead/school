@@ -1,3 +1,7 @@
+---
+title: Personal Finance Unit
+---
+
 # Personal Finance Unit
 
 In this unit, while several of your peers are working at the Stock Show, we are going to study Personal Finance. Because We are a project-based learning school, we will organize your learning around a project, which in this case will be creating a **side hustle**. 
@@ -33,6 +37,21 @@ Education needed: ____
 ## Notes
 
 Traditional 401(k) contributions are taken out before calculating your net income (take-home pay) because they are pre-tax deductions, reducing your taxable income and the final amount you receive in your paycheck. Your net income is your gross pay minus all deductions, including taxes, insurance, and 401(k) contributions
+
+
+* With tax-deferred 401(k) plans, you set aside part of your pay before federal and state income taxes are withheld, lowering your taxable income so you pay less income tax now.
+* With a tax-deferred 401(k), you don't pay taxes on the earnings as you make them every year.
+* You will be taxed on the money you take from a tax-deferred 401(k) in your retirement years, but you will likely be taxed at a rate lower than when you were fully employed.
+* You can begin withdrawing money from a 401 (k) at age 59 ½ without a penalty. You must begin withdrawing the funds by April 1 of the year after you turn 73.
+
+
+## Day two: 
+
+* Investment options
+    * 401k 
+    * Roth/IRA
+
+* Start personal / side hustle project
 
 ## Extra time:
 

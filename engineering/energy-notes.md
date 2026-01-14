@@ -33,3 +33,7 @@ Objects launched through a gravitational field form the shape of a **parabola**
 ![Parabola](img/parabola.png)
 
 What **angle** do you think would be best for launching the bean bag?
+
+# Elastic energy
+
+$E_\text{elastic} = \tfrac{1}{2} k x^2$

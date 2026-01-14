@@ -1,4 +1,8 @@
-
+---
+title: Computer Science 2026!
+---
+## 1/5/25
+[Spreadsheet notes](spreadsheet-notes.html)
 
 ## 1/5/25
 
@@ -71,7 +75,9 @@ And use them to put together an interactive website you can share.
 * The image must represent **yourself** and **what you want to be in the new year.**
 
 
-##  "Inspect Element" Your Way to Internet Fame
+## Activities
+
+###  "Inspect Element" Your Way to Internet Fame
 
 <!-- can do? too difficult? -->
 

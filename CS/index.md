@@ -1,10 +1,10 @@
 ---
 title: Computer Science 2026!
 ---
-## 1/5/25
+## 1/15/25
 [Spreadsheet notes](spreadsheet-notes.html)
 
-## 1/5/25
+## 1/15/25
 
 Agenda
 

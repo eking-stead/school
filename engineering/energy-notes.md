@@ -1,10 +1,23 @@
 # Energy
 
+## Goal:
+
+* To understand and apply basic energy equations
+* To lead in to writeup
+* (To think of problems as a mechanical engineer? too much)
+    * Problems could me mechanical engineer-themed
+
+## Notes
+
 Energy can only change form, not be created or destroyed.
 
 The two kinds of energy we will talk about are **kinetic** and **potential.**
 
-# Kinetic Energy
+## Engineer
+
+You are a mechanical engineer, ...
+
+## Kinetic Energy
 
 Energy in movement
 
@@ -14,7 +27,7 @@ Energy in movement
 
 v = velocity (m/s)
 
-# Potential Energy
+## Potential Energy
 
 The kind of potential energy we care about for this project is **elastic potential energy**. This is what builds up when you pull back on a spoon or rubber band.
 
@@ -26,7 +39,7 @@ h = height (meters)
 
 g = gravitational constant ($9.81 \frac{m}{s^2}$)
 
-# Shape 
+## Shape 
 
 Objects launched through a gravitational field form the shape of a **parabola**
 
@@ -34,11 +47,11 @@ Objects launched through a gravitational field form the shape of a **parabola**
 
 What **angle** do you think would be best for launching the bean bag?
 
-# Elastic potential energy
+## Elastic potential energy
 
 $E_\text{elastic} = \tfrac{1}{2} k x^2$
 
-# Distance
+## Distance
 
 When launched at a 45 degree angle, the bean bag will follow the following equation:
 
@@ -46,6 +59,6 @@ $D = \frac{v^2}{g}$
 
 $g = 9.81 \frac{m}{s^2}$
 
-# Your task
+## Your task
 
-Use one of these equations to explain the behavior of your bean bag launcher.
+Use one of these equations to explain the behavior of your bean bag launcher in your writeup.

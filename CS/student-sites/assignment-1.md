@@ -7,7 +7,13 @@ For this assignment, you will make a personal site using **HTML and CSS** to pro
 
 ## Tools
 
-For this assignment, you will use a site called [codepen.io](codepen.io).
+For this assignment, you will use a site called [codepen.io](codepen.io) if it is unblocked or [spaces.w3schools.com](https://spaces.w3schools.com)
+
+You will see a space to write HTML code and a space to preview what it will look like when published to the web. 
+
+Codepen: Just start coding in the HTML space.
+
+spaces.w3schools: create an HTML file and start coding.
 
 
 ## Requirements 
@@ -27,7 +33,7 @@ Your site must have:
 
 * Colored text
 
-[Example of working CodePen](https://codepen.io/Ed-King-the-vuer/pen/ByzWejd)
+[Example of working CodePen](https://codepen.io/Ed-King-the-vuer/pen/ByzWejd) (may be blocked)
 
 
 ## Key terms
@@ -37,11 +43,6 @@ Your site must have:
 * **HTML code** (HyperText Markup Language): the building blocks of the web. This is where you will put the content of your site.
 
 * **CSS** (Cascading Style Sheets): the visuals of the site.
-
-## Link to article
-
-[Read this article: HTML and CSS](https://www.uxpin.com/studio/blog/html-vs-css/)
-
 
 ## Notes
 
@@ -99,3 +100,7 @@ For your site, you will need:
     <p>This is a block of text</p>
 
 That clearly describe what your app does and how it will make money. You can reuse text from any of the assignments you have already done.
+
+## Additional Notes:
+
+[Read this article: HTML and CSS](https://www.uxpin.com/studio/blog/html-vs-css/)

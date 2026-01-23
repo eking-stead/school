@@ -1,8 +1,8 @@
 Okay! Looking at the calculator, how do we find kinetic energy if we have the equation:
 
-    $E_k= \frac{1}{2} mv^2$
+$E_k= \frac{1}{2} mv^2$
 
-    When m = 0.6 kg and v = 3 $\frac{m}{s}$
+When m = 0.6 kg and v = 3 $\frac{m}{s}$
 
 ## The steps 
 

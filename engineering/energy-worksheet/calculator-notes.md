@@ -20,4 +20,4 @@ Okay! Looking at the calculator, how do we find kinetic energy if we have the eq
 
 When we put that all together, you're going to press 0.5 x 0.6 x 3 $x^2$. You should get 2.7, and our units of energy are Joules, or the letter J. So your answer should be **2.7 J**.
 
-![](vid.gif)
+![](calc.mp4)

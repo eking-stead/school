@@ -3,9 +3,8 @@
 ## Goal:
 
 * To understand and apply basic energy equations
-* To lead in to writeup
-* (To think of problems as a mechanical engineer? too much)
-    * Problems could me mechanical engineer-themed
+* To have the correct vocabulary for your writeup
+* To think of problems as a mechanical engineer
 
 ## Notes
 
@@ -15,7 +14,7 @@ The two kinds of energy we will talk about are **kinetic** and **potential.**
 
 ## Engineer
 
-You are a mechanical engineer, ...
+You are a mechanical engineer, tasked with solving the foll
 
 ## Kinetic Energy
 
@@ -41,11 +40,11 @@ g = gravitational constant ($9.81 \frac{m}{s^2}$)
 
 ## Shape 
 
-Objects launched through a gravitational field form the shape of a **parabola**
+Objects launched through a gravitational field form the shape of a **parabola.**
 
 ![Parabola](img/parabola.png)
 
-What **angle** do you think would be best for launching the bean bag?
+A 45º angle will get you max distance.
 
 ## Elastic potential energy
 

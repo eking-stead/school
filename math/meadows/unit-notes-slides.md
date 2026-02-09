@@ -1,11 +1,11 @@
-## Today: Course Website Scavenger Hunt
+# Today: Course Website Scavenger Hunt
 
 * easy jump-in for students who come in late
 * practice words --> constraints
 * elimination method
 * woody
 
-## Sheets for today
+# Sheets for today
 
 * Woody
 * Corners w/o the graph
@@ -13,7 +13,7 @@
 
 # Solving Meadows and Malls questions
 
-## Key skills
+# Key skills
 
 * Solving systems of equations
     * Elimination
@@ -29,10 +29,10 @@
             * [Practice problems / solutions](https://www.algebralab.org/lessons/lesson.aspx?file=algebra_onevariablewritingequations.xml)
             * [Systems of equations](https://tutorial.math.lamar.edu/problems/alg/systemstwovrble.aspx)
 
-### Words to equations practice
+# Words to equations practice
 
 
-#### Warm up 1
+# Warm up 1
 
 Use variables to write the following constraints:
 
@@ -45,7 +45,7 @@ Admire is keeping track of his protein and carbs
 * He wants his oz of protein to be at least twice his oz of carbs
 
 
-#### Warm up 1
+# Warm up 2
 
 Headen is trying to decide how many pigs, cows, and goats to purchase for his farm. Represent the following statements using variables.
 
@@ -56,17 +56,17 @@ Headen is trying to decide how many pigs, cows, and goats to purchase for his fa
 
 
 
-### Solving systems of equation
+# Solving systems of equation
 
 * Methods
     * Substitution
     * ELIMINATION
 
-## Assessments
+# Assessments
 
 * Exam 
 * Some kind of writeup
 
-## Schedule / Deadlines
+# Schedule / Deadlines
 
 * 3rd quarter ends 3/13

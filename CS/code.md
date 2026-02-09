@@ -1,0 +1,5 @@
+    .pixel-art {
+        image-rendering: pixelated;
+    image-rendering: crisp-edges; /* For broader compatibility */
+    }
+

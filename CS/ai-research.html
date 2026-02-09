@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Research Project | My Journey</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #64748b;
+            --bg: #f8fafc;
+            --card: #ffffff;
+            --text: #1e293b;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            background-color: var(--bg);
+            color: var(--text);
+        }
+
+        nav {
+            background: #1e293b;
+            color: white;
+            padding: 1rem;
+            position: sticky;
+            top: 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            z-index: 1000;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            cursor: pointer;
+            padding: 5px 15px;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 20px;
+        }
+
+        .section {
+            display: none;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        .active {
+            display: block;
+        }
+
+        .card {
+            background: var(--card);
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            margin-bottom: 2rem;
+        }
+
+        h1, h2 { color: var(--primary); }
+
+        .status-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            background: #dbeafe;
+            color: #1e40af;
+            margin-bottom: 1rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        footer { text-align: center; padding: 2rem; color: var(--secondary); font-size: 0.9rem; }
+
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a onclick="showSection('home')">Home</a>
+        <a onclick="showSection('lesson1')">Lesson 1</a>
+        <a onclick="showSection('lesson2')">Lesson 2</a>
+        <a onclick="showSection('lesson3')">Lesson 3</a>
+    </nav>
+
+    <div class="container">
+        
+        <section id="home" class="section active">
+            <div class="card">
+                <h1>AI Research Project</h1>
+                <p><strong>The Umbrella Question:</strong> When is it ethical to use AI?</p>
+                <p>Welcome to my digital research log. Follow the tabs above to see my progress from initial theory to final trifold assembly.</p>
+                <div style="background: #eff6ff; padding: 15px; border-left: 5px solid var(--primary);">
+                    "The development of AI systems can create ethical and legal dilemmas..." (CS24.15)
+                </div>
+            </div>
+        </section>
+
+        <section id="lesson1" class="section">
+            <div class="card">
+                <span class="status-badge">Phase 1: Foundation</span>
+                <h2>Explaining AI to a 5-Year-Old</h2>
+                <p><em>Task: Translate your technical article into simple concepts.</em></p>
+                <textarea rows="6" placeholder="Write your simple explanation here..."></textarea>
+                <h3>My Research Question</h3>
+                <input type="text" placeholder="Enter your chosen question (e.g., AI Water Usage)">
+            </div>
+        </section>
+
+        <section id="lesson2" class="section">
+            <div class="card">
+                <span class="status-badge">Phase 2: Deep Dive</span>
+                <h2>Research & Evidence</h2>
+                <p>Document your findings from multiple perspectives here to hit that 'Excellent' rubric mark.</p>
+                <textarea rows="10" placeholder="Paste your research evidence and reasoning..."></textarea>
+            </div>
+            <div class="card">
+                <h2>AI vs. Human Art</h2>
+                <div class="grid">
+                    <div style="border: 2px dashed #ccc; padding: 20px; text-align: center;">
+                        <p>Upload Human Art</p>
+                    </div>
+                    <div style="border: 2px dashed #ccc; padding: 20px; text-align: center;">
+                        <p>Upload AI Art</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="lesson3" class="section">
+            <div class="card">
+                <span class="status-badge">Phase 3: Final Product</span>
+                <h2>Trifold Assembly Checklist</h2>
+                <ul>
+                    <li><strong>Left:</strong> Simple AI explanation + Visuals</li>
+                    <li><strong>Center:</strong> Research Answer + Evidence</li>
+                    <li><strong>Right:</strong> Art Comparison Gallery</li>
+                </ul>
+                <p><em>Final Reminder: Use all available space on your board for a level 4 grade!</em></p>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        AI Unit Spring 2026 | Built for GitHub Pages
+    </footer>
+
+    <script>
+        function showSection(id) {
+            // Hide all sections
+            const sections = document.querySelectorAll('.section');
+            sections.forEach(s => s.classList.remove('active'));
+            
+            // Show selected section
+            document.getElementById(id).classList.add('active');
+            
+            // Update URL hash without jumping
+            window.history.pushState(null, null, `#${id}`);
+        }
+
+        // Handle browser back/forward buttons
+        window.onpopstate = () => {
+            const hash = window.location.hash.replace('#', '') || 'home';
+            showSection(hash);
+        };
+    </script>
+</body>
+</html>

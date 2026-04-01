@@ -25,3 +25,9 @@ Finding the area of a triangle is the same as finding the area of a rectangle, t
 [![Solving for distance, pt 2](img/distance-messy.jpg)](img/distance-messy.jpg)
 
 ## 3/30/26 Building the Pyramid
+
+* The pyramid will have 100 layers.
+* The bottom layer will be 100x100 cubes
+* The next layer up will be 99x99 cubes
+* All the way to the top layer with 1 cube.
+* Adding them all up will total 338,350 cubes!

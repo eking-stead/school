@@ -3,6 +3,8 @@
 
 ---
 
+![calculus is elegant!](img/calc.jpg)
+
 ## The Two Questions
 
 Everything in this unit comes back to two questions:

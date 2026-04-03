@@ -5,11 +5,15 @@
 
 ![calculus is elegant!](img/calc.jpg)
 
-> ##  DUE DATES
->
-> | | |
-> |---|---|
-> | **Tuesday, April 7th** | How Fast? How Much? and Leaky Faucet |
+<div style="background:#fffbe6; border-left:4px solid #f0c000; border-radius:4px; padding:1em 1.2em;">
+
+## DUE DATES
+
+| | |
+|---|---|
+| **Tuesday, April 7th** | How Fast? How Much? and Leaky Faucet |
+
+</div>
 
 ---
 

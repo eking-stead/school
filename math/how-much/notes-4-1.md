@@ -24,6 +24,8 @@ Finding the area of a triangle is the same as finding the area of a rectangle, t
 
 [![Solving for distance, pt 2](img/distance-messy.jpg)](img/distance-messy.jpg)
 
+Solution: 125
+
 ## 3/30/26 Building the Pyramid
 
 * The pyramid will have 100 layers.

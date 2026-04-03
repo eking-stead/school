@@ -47,7 +47,7 @@ Answering those questions will almost always show you where you are in the unit.
 | Date | Class No. | Activities | Notes |
 |---|---|---|---|
 | 3/31 | 1 | Building the Pyramid 45<br>How Far Did You Go? 45 |[Solutions](notes-4-1.html) |
-| 4/2 | 2 | Another Trip 30<br>How Fast? How Much? 45<br>Leaky Faucet 15 | [Solutions](how-much.html) | 
+| 4/2 | 2 | Another Trip 30 (Enrichment) <br>How Fast? How Much? 45<br>Leaky Faucet 15 | [Solutions](how-much.html) | 
 | 4/6 | 3 | Graduation Math Portfolios (3 due by end of class) | |
 | 4/8 | 4 | Graduation Math Portfolios (3 more due by end of class) | |
 | 4/10 | 5 | Continue: Leaky Faucet 15<br>Reference: Units for Measuring Electricity<br>What's Watt? 30<br>Electrical Meter 40 | |

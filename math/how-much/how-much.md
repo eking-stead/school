@@ -8,3 +8,6 @@
 
 ## 1c. Answer: 7.2 weeks
 ![1c](img/how-much-1c.jpg)
+
+## 1g. Answer: 1.47 gallons
+![1g](img/how-much-1g.jpg)

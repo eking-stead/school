@@ -5,6 +5,14 @@
 
 ![calculus is elegant!](img/calc.jpg)
 
+> ##  DUE DATES
+>
+> | | |
+> |---|---|
+> | **Tuesday, April 7th** | How Fast? How Much? and Leaky Faucet |
+
+---
+
 ## The Two Questions
 
 Everything in this unit comes back to two questions:

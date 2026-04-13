@@ -11,7 +11,7 @@
 
 | | |
 |---|---|
-| **Tuesday, April 7th** | How Fast? How Much? and Leaky Faucet |
+| **Tuesday, April 14th** | How Fast? How Much? and Leaky Faucet |
 
 </div>
 

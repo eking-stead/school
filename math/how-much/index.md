@@ -54,7 +54,7 @@ Answering those questions will almost always show you where you are in the unit.
 | 4/15 | 6 | Graduation Math Portfolios (Completly due by end of class) | |
 | 4/17 | 7 | N/A | SAT/PSAT |
 | 4/21 | 8 | Tilted Duct 40<br>Warming Up 40 |[Tilted Duct Solutions](img/tilted-duct.jpg)<br>[Warming Up Solutions 1](pdf/warming.pdf)<br>[Warming Up Solutions 2](img/warming.jpg)|
-| 4/23 | 9 | Total Heat 75 | |
+| 4/23 | 9 | Total Heat 75 |[Total Heat Solutions](img/total-heat.png)|
 | 4/27 | 10 | A Distance Graph 40<br>Let It Fall! 30 | (Skip How Fast Were you Going |
 | 4/29 | 11 | Pool pockets<br>Basic Derivatives 45<br>Going Up? 40 | (Skip summer job) |
 | 5/1 | 12 | Down the Drain<br>Polynomial Derivatives | |

@@ -11,36 +11,49 @@
 | Arduino Nano           | 13           | Cardboard box, cabinet #1      |                                                                 |
 | Motor drivers          | 8            | Cardboard box, cabinet #1      |                                                                 |
 | Robot equipment        |              | Cabinet #2                     |                                                                 |
-| Big blue Lego tub      | 2            | Back of the classroom          |                                                                 |
-| Lego Gears             |              | Plastic bin                    |                                                                 |
-| Lego Gears (unopened)  |              | Plastic bin back of classroom  |                                                                 |
 | Scissors               |              | Plastic bin, dividing shelves  |                                                                 |
 | Rulers/protractors     |              | Plastic bin, dividing shelves  | Students love to break these                                    |
 | Math binders           | 4 binders    | Math space (Aidan has)         | Contains worksheets for 4 math 4 units                          |
-| Wire strippers/cutters | 2            | Yellow engineering bin         | Yellow handles. Not in great condtion.                          |
+| Wire strippers/cutters | 2            | Yellow "engineering" bin*       | Yellow handles. Not in great condtion.                          |
 | Tape Measures          | 3            | Cabinet #1                     |                                                                 |
 | Small parts drawers    | 2 (stacking) | Table by ViewBoard             | Haven't found a use for.                                        |
 | Small multimeters      | 3+           | Floating around. Need a place. |                                                                 |
 | Black/orange toolbox   | 1            | Cabinet #1                     | Hammer, screwdrivers, etc. Tape measure broke, box cutter gone. |
-| Paint scraper             | 1            | Clear shelves/bins                    |  |
+| Paint scraper          | 1            | Clear shelves/bins             |                                                                 |
+| 25 lb weights          | 2            | Back shelves                   |                                                                 |
+
+\*"Yellow engineering bin" is in the stack of yellow/black bins by cabinet #1
 
 ### Electronics (semi-consumable)
 
-| Material                      | Amount    | Location                                    | Notes                          |
-| ----------------------------- | --------- | ------------------------------------------- | ------------------------------ |
-| Motor/electronics kits, small | 11 intact | Dividing shelves                            |                                |
-| Motor/electronics kits, large | 10 intact | Dividing shelves                            |                                |
-| Breadboard wires              | 2 sets?   | By ViewBoard/back of room.                  | Need a place                   |
-| Resistor kit                  |           |                                             |                                |
-| LED kit                       | 1         | Dividing shelves, with big electronics kits |                                |
-| Solar panels                  |           | Cardboard box in back                       | Donated. Need to find a place. |
+| Material                      | Amount    | Location                   | Notes                          |
+| ----------------------------- | --------- | -------------------------- | ------------------------------ |
+| Motor/electronics kits, small | 11 intact | Dividing shelves           |                                |
+| Motor/electronics kits, large | 10 intact | Dividing shelves           |                                |
+| Breadboard wires              | 2 sets?   | By ViewBoard/back of room. | Need a place                   |
+| Resistor kit                  | 3 sets    | Misc electronics box\*     |                                |
+| LED kit                       | 1         | Misc electronics box\*     |                                |
+| Solar panels                  |           | Cardboard box in back      | Donated. Need to find a place. |
+
+\*Misc electronics box currently lives to the left of the ViewBoard.
+
+### Lego
+
+| Material              | Amount | Location                      | Notes |
+| --------------------- | ------ | ----------------------------- | ----- |
+| Big blue Lego tub     | 2      | Back of the classroom         |       |
+| Black Lego tub        | 1      | Inside blue tub               |       |
+| Clear Lego tub        | 2      | Back shelves                  |       |
+| Lego Gears            |        | Plastic bin                   |       |
+| Lego Gears (unopened) |        | Plastic bin back of classroom |       |
 
 ### Consumable
 
 | Material                | Amount                | Location                  | Notes      |
 | ----------------------- | --------------------- | ------------------------- | ---------- |
 | Hot glue sticks         | 1 bag                 | Plastic bins              |            |
-| Blue tape               | Small amount          | Yellow engineering bin    |            |
+| Blue painter's tape     | Used                  |                           | Need more  |
+| Blue duct tape          |                       | Yellow "engineering" bin* |            |
 | Graph Paper             | 1 binder              | Dividing shelves          |            |
 | Notebook Paper          | Several packs         | Dividing shelves          |            |
 | Solder, red roll        | 1 roll                | Cabinet #1, cardboard box |            |
@@ -48,6 +61,9 @@
 | Stickies                |                       | Clear shelves/bins        |            |
 | Markers/colored pencils | 1 bin, v disorganized | Plastic bin               | Need more! |
 | Cardboard               | Lots                  | Shelves in back of room   |            |
+| Trifolds                | 2 boxes               | Near whiteboard           |            |
+| Regular rubber bands    | None left             | Top shelf of cabinet #1   | Need more  |
+| big rubber bands        | 3/4 of a box          | Top shelf of cabinet #1   |            |
 
 ### Computers
 

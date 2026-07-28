@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Materials — Engineering Documentation</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<nav>
+<p><a href="../index.html">&larr; Engineering</a> / <a href="index.html">Documentation</a></p>
+<ul>
+<li><a href="materials.html">Materials</a></li>
+<li><a href="procedures.html">Procedures &amp; Projects</a></li>
+</ul>
+</nav>
+<hr />
+<h1 id="engineering-documentation">Engineering Documentation</h1>
+<h2 id="materials">Materials</h2>
+<h3 id="reusable">Reusable</h3>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 8%" />
+<col style="width: 26%" />
+<col style="width: 45%" />
+</colgroup>
+<thead>
+<tr>
+<th>Material</th>
+<th>Amount</th>
+<th>Location</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hot glue gun</td>
+<td>4</td>
+<td>Plastic bin, cabinet #1</td>
+<td></td>
+</tr>
+<tr>
+<td>Soldering iron, blue</td>
+<td>2</td>
+<td>Cardboard box, cabinet #1</td>
+<td></td>
+</tr>
+<tr>
+<td>Arduino Nano</td>
+<td>13</td>
+<td>Cardboard box, cabinet #1</td>
+<td></td>
+</tr>
+<tr>
+<td>Motor drivers</td>
+<td>8</td>
+<td>Cardboard box, cabinet #1</td>
+<td></td>
+</tr>
+<tr>
+<td>Robot equipment</td>
+<td></td>
+<td>Cabinet #2</td>
+<td></td>
+</tr>
+<tr>
+<td>Scissors</td>
+<td></td>
+<td>Plastic bin, dividing shelves</td>
+<td></td>
+</tr>
+<tr>
+<td>Rulers/protractors</td>
+<td></td>
+<td>Plastic bin, dividing shelves</td>
+<td>Students love to break these</td>
+</tr>
+<tr>
+<td>Math binders</td>
+<td>4 binders</td>
+<td>Math space (Aidan has)</td>
+<td>Contains worksheets for 4 math 4 units</td>
+</tr>
+<tr>
+<td>Wire strippers/cutters</td>
+<td>2</td>
+<td>Yellow “engineering” bin*</td>
+<td>Yellow handles. Not in great condtion.</td>
+</tr>
+<tr>
+<td>Tape Measures</td>
+<td>3</td>
+<td>Cabinet #1</td>
+<td></td>
+</tr>
+<tr>
+<td>Small multimeters</td>
+<td>3+</td>
+<td>Bin in back/ cardboard boxes in back.</td>
+<td></td>
+</tr>
+<tr>
+<td>Large multimeters (AstroAI)</td>
+<td>55</td>
+<td>Cabinet #1</td>
+<td></td>
+</tr>
+<tr>
+<td>Black/orange toolbox</td>
+<td>1</td>
+<td>Cabinet #1</td>
+<td>Hammer, screwdrivers, etc. Tape measure broke, box cutter gone.</td>
+</tr>
+<tr>
+<td>Paint scraper</td>
+<td>1</td>
+<td>Clear shelves/bins</td>
+<td></td>
+</tr>
+<tr>
+<td>25 lb weights</td>
+<td>2</td>
+<td>Back shelves</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="small-parts-drawers">Small parts drawers</h3>
+<p>Location: art laptop table by ViewBoard</p>
+<table>
+<thead>
+<tr>
+<th>Contents</th>
+<th>Amount</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Motors</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Wires</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Plastic wheels</td>
+<td></td>
+<td>More in bin</td>
+</tr>
+</tbody>
+</table>
+<h3 id="plastic-bins">Plastic bins</h3>
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 52%" />
+</colgroup>
+<thead>
+<tr>
+<th>Bin</th>
+<th>Kind</th>
+<th>Location</th>
+<th>Notes/contents</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wires</td>
+<td></td>
+<td></td>
+<td>Breadboard wires, jumper wires, random other wires</td>
+</tr>
+<tr>
+<td>Small multimeters</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Wheels and propellers</td>
+<td>Tall bin</td>
+<td>Back bookshelves</td>
+<td>Plastic wheels/propellors, some Lego wheels</td>
+</tr>
+</tbody>
+</table>
+<p>*“Yellow engineering bin” is in the shelving unit of of yellow/black
+bins by cabinet #1</p>
+<h3 id="electronics-semi-consumable">Electronics (semi-consumable)</h3>
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 9%" />
+<col style="width: 27%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th>Material</th>
+<th>Amount</th>
+<th>Location</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Motor/electronics kits, small</td>
+<td>11 intact</td>
+<td>Dividing shelves</td>
+<td></td>
+</tr>
+<tr>
+<td>Motor/electronics kits, large</td>
+<td>10 intact</td>
+<td>Dividing shelves</td>
+<td></td>
+</tr>
+<tr>
+<td>Breadboard wires</td>
+<td>2 sets?</td>
+<td>By ViewBoard/back of room.</td>
+<td>Need a place</td>
+</tr>
+<tr>
+<td>Resistor kit</td>
+<td>3 sets</td>
+<td>Misc electronics box*</td>
+<td></td>
+</tr>
+<tr>
+<td>LED kit</td>
+<td>1</td>
+<td>Misc electronics box*</td>
+<td></td>
+</tr>
+<tr>
+<td>Solar panels</td>
+<td></td>
+<td>Cardboard box in back</td>
+<td>Donated. Need to find a place.</td>
+</tr>
+<tr>
+<td>FreeNov 4WD Car kit</td>
+<td>4</td>
+<td>On top of cabinet #2</td>
+<td>2 open, 2 intact</td>
+</tr>
+</tbody>
+</table>
+<p>*Misc electronics box currently lives to the left of the
+ViewBoard.</p>
+<h3 id="lego">Lego</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 34%" />
+<col style="width: 9%" />
+<col style="width: 47%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr>
+<th>Material</th>
+<th>Amount</th>
+<th>Location</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Big blue Lego tub</td>
+<td>2</td>
+<td>Back of the classroom</td>
+<td></td>
+</tr>
+<tr>
+<td>Black Lego tub</td>
+<td>1</td>
+<td>Inside blue tub</td>
+<td></td>
+</tr>
+<tr>
+<td>Clear Lego tub</td>
+<td>2</td>
+<td>Back shelves</td>
+<td></td>
+</tr>
+<tr>
+<td>Lego Gears</td>
+<td></td>
+<td>Plastic bin</td>
+<td></td>
+</tr>
+<tr>
+<td>Lego Gears (unopened)</td>
+<td></td>
+<td>Plastic bin back of classroom</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="consumable">Consumable</h3>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 26%" />
+<col style="width: 32%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th>Material</th>
+<th>Amount</th>
+<th>Location</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hot glue sticks</td>
+<td>1 bag</td>
+<td>Plastic bins</td>
+<td></td>
+</tr>
+<tr>
+<td>Blue painter’s tape</td>
+<td>Used</td>
+<td></td>
+<td>Need more</td>
+</tr>
+<tr>
+<td>Blue duct tape</td>
+<td></td>
+<td>Yellow “engineering” bin*</td>
+<td></td>
+</tr>
+<tr>
+<td>Graph Paper</td>
+<td>1 binder</td>
+<td>Dividing shelves</td>
+<td></td>
+</tr>
+<tr>
+<td>Notebook Paper</td>
+<td>Several packs</td>
+<td>Dividing shelves</td>
+<td></td>
+</tr>
+<tr>
+<td>Solder, red roll</td>
+<td>1 roll</td>
+<td>Cabinet #1, cardboard box</td>
+<td></td>
+</tr>
+<tr>
+<td>Notecards</td>
+<td></td>
+<td>Clear shelves/bins by desk</td>
+<td></td>
+</tr>
+<tr>
+<td>Stickies</td>
+<td></td>
+<td>Clear shelves/bins by desk</td>
+<td></td>
+</tr>
+<tr>
+<td>Markers/colored pencils</td>
+<td>1 bin, v disorganized</td>
+<td>Plastic bin</td>
+<td>Need more!</td>
+</tr>
+<tr>
+<td>Cardboard</td>
+<td>Lots</td>
+<td>Shelves in back of room</td>
+<td></td>
+</tr>
+<tr>
+<td>Trifolds</td>
+<td>2 boxes</td>
+<td>Near whiteboard</td>
+<td></td>
+</tr>
+<tr>
+<td>Regular rubber bands</td>
+<td>None left</td>
+<td>Top shelf of cabinet #1</td>
+<td>Need more</td>
+</tr>
+<tr>
+<td>big rubber bands</td>
+<td>3/4 of a box</td>
+<td>Top shelf of cabinet #1</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="computers">Computers</h3>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Amount</th>
+<th>Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chromebooks</td>
+<td>18ish</td>
+<td>Back Chromebook cart</td>
+</tr>
+<tr>
+<td>“Art Laptops”</td>
+<td>14 (one broken)</td>
+<td>Front Chromebook cart</td>
+</tr>
+</tbody>
+</table>
+<h3 id="notebooks">Notebooks</h3>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Amount</th>
+<th>Location</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Refurbished” notebooks</td>
+<td>25ish</td>
+<td>On top of Art Laptop cart</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
